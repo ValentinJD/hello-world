@@ -1,2 +1,4 @@
 # hello-world
-In developer
+In developeest
+Hiюшки! Вносим изменения.
+int x = 0;
